@@ -32,4 +32,4 @@ export const login = async (req, res, next) => {
   }
 }
 
-//hellou este trabaja esta muy bien realizado, porfavor no tocar gracias. 
+//hellou este trabaja esta muy bien realizado, por favor no tocar gracias. 
